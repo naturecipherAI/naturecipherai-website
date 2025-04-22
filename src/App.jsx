@@ -1,13 +1,13 @@
+import HeroSection from "./Components/HeroSection";
+import Navbar from "./Components/Navbar";
+
 function App() {
   return (
-    <>
-      <div>
-        <p class="text-3xl font-bold underline">
-          Hello world!
-        </p>
-      </div>
-    </>
-  )
+    <div className="font-sans">
+      <Navbar />
+      <HeroSection />
+    </div>
+  );
 }
 
-export default App
+export default App;

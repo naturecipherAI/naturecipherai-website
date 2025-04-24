@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+.green {
+  color: #2C4F40;
+}
+
+.bg-green {
+  background-color: #2C4F40;
+}

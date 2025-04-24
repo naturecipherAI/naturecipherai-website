@@ -3,6 +3,7 @@ import Highlights from "./Components/Highlights";
 import LatestStories from "./Components/LatestStories";
 import Footer from "./Shared/Footer";
 import Navbar from "./Shared/Navbar";
+import './index.css'
 
 function App() {
   return (

@@ -1,7 +1,8 @@
 import HeroSection from "./Components/HeroSection";
 import Highlights from "./Components/Highlights";
 import LatestStories from "./Components/LatestStories";
-import Navbar from "./Components/Navbar";
+import Footer from "./Shared/Footer";
+import Navbar from "./Shared/Navbar";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <HeroSection />
       <Highlights />
       <LatestStories />
+      <Footer />
     </div>
   );
 }

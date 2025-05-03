@@ -13,7 +13,7 @@ function LatestStories() {
         {/* Left Column */}
         <div className="flex-1 flex flex-col gap-6">
           <div>
-            <h3 className="leftgreen text-theme-green text-lg font-semibold mb-2">TODAY’S PICK</h3>
+            <h3 className="leftgreen green text-lg font-semibold mb-2">TODAY’S PICK</h3>
             <div className="relative w-full aspect-video rounded overflow-hidden">
               <img
                 src={droughtImage}

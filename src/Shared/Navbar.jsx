@@ -22,7 +22,7 @@ function Navbar() {
         scrolled ? "bg-white green shadow-md" : "bg-transparent text-white"
       }`}
     >
-      <div className="max-w-7xl mx-auto px-4 py-6 flex items-center justify-between">
+      <div className="max-w-7xl mx-auto px-5 md:px-11 py-6 flex items-center justify-between">
         <div className="text-lg font-bold tracking-wide">NatureCipher</div>
 
         <div className="hidden md:flex gap-6 text-sm uppercase tracking-wide font-medium">

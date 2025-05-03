@@ -52,7 +52,7 @@ export default function Highlights() {
     <section className="bg-white">
       {/* Section Intro */}
       <div className="text-center px-4 pt-16 pb-8 max-w-4xl mx-auto">
-        <p className="uppercase text-sm tracking-wider text-theme-green font-semibold">naturecipher ai</p>
+        <p className="uppercase text-sm tracking-wider green font-semibold">naturecipher ai</p>
         <p className="text-sm sm:text-base text-gray-700 leading-relaxed mt-3">
           We build AI tools for the frontlines of conservation and climate resilience.
           At NatureCipher, we believe the intersection of people, climate, and biodiversity is where the most urgent—and hopeful—work happens.

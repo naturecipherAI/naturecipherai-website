@@ -1,1 +1,18 @@
 @import "tailwindcss";
+
+.green {
+  color: #2C4F40;
+}
+
+.bg-green {
+  background-color: #2C4F40;
+}
+
+.leftgreen {
+  border-left: 7px solid #2C4F40;
+  padding-left: 0.5rem;
+}
+
+.latestgreen {
+  border-left: 7px solid #2C4F40;
+}

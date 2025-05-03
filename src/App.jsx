@@ -1,13 +1,20 @@
+import HeroSection from "./Components/HeroSection";
+import Highlights from "./Components/Highlights";
+import LatestStories from "./Components/LatestStories";
+import Footer from "./Shared/Footer";
+import Navbar from "./Shared/Navbar";
+import './index.css'
+
 function App() {
   return (
-    <>
-      <div>
-        <p class="text-3xl font-bold underline">
-          Hello world!
-        </p>
-      </div>
-    </>
-  )
+    <div className="font-sans">
+      <Navbar />
+      <HeroSection />
+      <Highlights />
+      <LatestStories />
+      <Footer />
+    </div>
+  );
 }
 
-export default App
+export default App;

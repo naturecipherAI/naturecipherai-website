@@ -4,7 +4,7 @@ function Footer() {
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between gap-10 md:gap-20">
         
         {/* Left Side: Branding & Social */}
-        <div className="flex flex-col gap-4 md:w-1/4">
+        <div className="flex flex-col gap-4 md:w-1/4 text-bottom">
           <p className="text-sm font-light">naturecipher ai</p>
         </div>
 

@@ -3,7 +3,7 @@ import floods from '../assets/floods.webp';
 
 function LatestStories() {
   return (
-    <section className="max-w-7xl mx-auto px-4 py-12">
+    <section id='stories' className="max-w-7xl mx-auto px-4 py-12">
       {/* Header */}
       <h2 className="text-center text-2xl sm:text-3xl font-bold underline green mb-10">
         LATEST STORIES

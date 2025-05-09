@@ -47,7 +47,7 @@ const highlightsData = [
 
 export default function Highlights() {
   return (
-    <section className="bg-white">
+    <section id='aboutus' className="bg-white">
       {/* Section Intro */}
       <div className="text-center px-4 pt-16 pb-8 max-w-4xl mx-auto">
         <p className="uppercase text-sm tracking-wider green font-semibold">naturecipher ai</p>

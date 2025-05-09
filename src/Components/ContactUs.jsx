@@ -2,9 +2,9 @@ import contactImage from '../assets/contactus.jpg';
 
 export default function ContactForm() {
   return (
-    <section className="w-full bg-white py-16 px-4 sm:px-6 lg:px-8">
+    <section id='contactus' className="w-full bg-white py-16 px-4 sm:px-6 lg:px-8">
       <div className="max-w-3xl mx-auto text-center mb-12">
-        <h2 className="text-3xl sm:text-4xl font-bold green">Contact Us</h2>
+        <h2 className="text-3xl sm:text-4xl font-bold green">CONTACT US</h2>
         <p className="mt-2 text-gray-600">
           We'd love to hear from you. Whether you're curious about our work or need support — we're ready to answer any questions.
         </p>

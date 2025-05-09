@@ -39,8 +39,6 @@ const highlightsData = [
     title: 'Biodiversity and habitat monitoring.',
     paragraphs: [
       'East Africa’s ecosystems—from savannahs to mountain forests—are rich in life but under threat. Habitat loss, climate change, poaching, and land-use pressures are driving species extinction at an alarming rate. Traditional biodiversity monitoring is slow, costly, and fragmented—making it hard to respond in time.',
-    ],
-    listItems: [
       'We use computer vision and bioacoustic models to automatically identify species from camera traps, drone footage, and field audio—enabling faster, real-time biodiversity insights.',
       'Through satellite imagery and deep learning, we track habitat degradation, forest fragmentation, and land-use changes, detecting subtle threats before they escalate.',
     ],

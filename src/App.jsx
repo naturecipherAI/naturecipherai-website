@@ -1,3 +1,4 @@
+import ContactForm from "./Components/ContactUs";
 import HeroSection from "./Components/HeroSection";
 import Highlights from "./Components/Highlights";
 import LatestStories from "./Components/LatestStories";
@@ -12,6 +13,7 @@ function App() {
       <HeroSection />
       <Highlights />
       <LatestStories />
+      <ContactForm />
       <Footer />
     </div>
   );
